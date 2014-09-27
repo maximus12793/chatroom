@@ -29,3 +29,5 @@ group :development do
 end
 
 gem 'jquery-rails'
+gem 'pg'
+gem 'rails_12factor', group: :production
