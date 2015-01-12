@@ -31,3 +31,4 @@ end
 gem 'jquery-rails'
 gem 'pg'
 gem 'rails_12factor', group: :production
+gem 'devise'
